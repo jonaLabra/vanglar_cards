@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995711858104",
+    "firebase_url": "https://servidor-df819.firebaseio.com",
+    "project_id": "servidor-df819",
+    "storage_bucket": "servidor-df819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995711858104:android:c7b524fad5149eae330b4d",
+        "android_client_info": {
+          "package_name": "com.example.vanlgar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995711858104-sti5dme47b9asl1sel4s0osacohejim7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Ik7OkrFU1HTmLL7LV8gzr70E9fjL2O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995711858104-sti5dme47b9asl1sel4s0osacohejim7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

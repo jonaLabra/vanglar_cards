@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">vanlgar</string>
+    <string name="name">NOMBRE</string>
+    <string name="key">CLAVE DE ELECTOR</string>
+    <string name="state">ESTADO</string>
+    <string name="country">MUNICIPIO</string>
+    <string name="section">SECCION</string>
+</resources>

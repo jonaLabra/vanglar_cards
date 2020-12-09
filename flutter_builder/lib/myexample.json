@@ -1,0 +1,11 @@
+{
+    "name": "Container",
+    "params": {
+        "child": {
+            "name": "Text",
+            "params": {
+                "0": "Hola mundo"
+            }
+        }
+    }
+}
